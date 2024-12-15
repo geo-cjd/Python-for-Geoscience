@@ -7,7 +7,7 @@ A repository containing various (primarily Jupyter-Notebook based) code for vari
 
 ## 02 - Data Visualisation
 - A - Assessing the Depth Range of Logs throughout A Well
-- B - Calculating Petrographical Parameters from Quantitative Point-Count Data of Rock Samples
+- B - Visualising Porosity-Permeability Relationships using Scatter Plots
 - C - Visualising Rock Composition using Ternary Plots
 
 ## 03 - Data Collation
