@@ -8,7 +8,7 @@ A repository containing various (primarily Jupyter-Notebook based) code for vari
 ## 02 - Data Visualisation
 - A - Assessing the Depth Range of Logs throughout A Well
 - B - Visualising Porosity-Permeability Relationships using Scatter Plots
-- C - Visualising Rock Composition using Ternary Plots
+- [C - Visualising Rock Composition using Ternary Plots](https://github.com/geo-cjd/Python-for-Geoscience/blob/c3b9c84fd64b33e9645577c10b4acd8346635914/02_Data%20Visualisation/C_Ternary%20Diagrams/C%20-%20Ternary%20Diagrams.ipynb)
 
 ## 03 - Data Collation
 - TBC
